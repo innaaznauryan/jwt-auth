@@ -1,0 +1,14 @@
+{
+  "name": "jwt-auth-custom",
+  "version": "1.0.0",
+  "description": "jwt auth for http requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.3"
+  }
+}
